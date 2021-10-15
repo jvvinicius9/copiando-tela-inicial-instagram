@@ -1,4 +1,4 @@
-# copiando-tela-inicial-instagram
+# CLONE INSTAGRAM (layout tela de login)
 
 ## Projeto com intuito de colocar em prática os primeiros estudos de CSS
 
